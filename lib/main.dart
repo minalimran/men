@@ -21,7 +21,8 @@ class _MyAppState extends State<MyApp> {
         body: Column(
           children: [
             // ignore: prefer_const_constructors
-            Text("Fonts",style: TextStyle(
+            Text("Fonts",
+            style: TextStyle(
               color: Colors.white,
               // fontWeight: FontWeight.bold,
               fontSize: 50,
